@@ -1,0 +1,5 @@
+instalaçao supremomap
+
+chmod +x supremomap.sh
+
+./supremomap.sh
